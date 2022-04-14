@@ -1,0 +1,32 @@
+{
+  "name": "keep_notes_starter",
+  "version": "1.0.0",
+  "description": "This is a starter file for Keep notes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Kemer-Habesha/keep_notes_starter.git"
+  },
+  "keywords": [
+    "Keep",
+    "notes",
+    "like",
+    "Google",
+    "keep",
+    "notes"
+  ],
+  "author": "Back-end team kemer habesha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kemer-Habesha/keep_notes_starter/issues"
+  },
+  "homepage": "https://github.com/Kemer-Habesha/keep_notes_starter#readme",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3",
+    "mongoose": "^6.2.11"
+  }
+}
